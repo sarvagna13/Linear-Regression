@@ -1,2 +1,2 @@
 # Linear-Regression
-Linear Regression: Salary_prediction
+Linear Regression: Salary Predictiom
